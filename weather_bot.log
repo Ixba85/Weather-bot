@@ -1,0 +1,24 @@
+2025-03-04 15:36:58,487 - ERROR - Error fetching weather: 401 Client Error: Unauthorized for url: https://api.openweathermap.org/data/2.5/weather?q=Guatemala%20City&appid=None&units=metric
+2025-03-04 15:36:58,487 - ERROR - Skipping tweet due to weather fetch error.
+2025-03-04 15:40:23,745 - ERROR - Error fetching weather: 401 Client Error: Unauthorized for url: https://api.openweathermap.org/data/2.5/weather?q=Guatemala%20City&appid=None&units=metric
+2025-03-04 15:40:23,745 - ERROR - Skipping tweet due to weather fetch error.
+2025-03-04 15:42:04,535 - ERROR - Error posting tweet: 401 Unauthorized
+32 - Could not authenticate you.
+2025-03-04 15:50:06,060 - ERROR - Error posting tweet: 401 Unauthorized
+32 - Could not authenticate you.
+2025-03-04 16:07:25,111 - ERROR - Error posting tweet: 401 Unauthorized
+32 - Could not authenticate you.
+2025-03-05 10:13:02,820 - ERROR - Error posting tweet: 401 Unauthorized
+32 - Could not authenticate you.
+2025-03-05 10:33:47,055 - ERROR - Error posting tweet: 403 Forbidden
+453 - You currently have access to a subset of X API V2 endpoints and limited v1.1 endpoints (e.g. media post, oauth) only. If you need access to this endpoint, you may need a different access level. You can learn more here: https://developer.x.com/en/portal/product
+2025-03-05 10:34:29,905 - ERROR - Error posting tweet: 403 Forbidden
+453 - You currently have access to a subset of X API V2 endpoints and limited v1.1 endpoints (e.g. media post, oauth) only. If you need access to this endpoint, you may need a different access level. You can learn more here: https://developer.x.com/en/portal/product
+2025-03-05 10:48:15,243 - ERROR - Error posting tweet: 401 Unauthorized
+32 - Could not authenticate you.
+2025-03-05 10:49:14,674 - ERROR - Error posting tweet: 403 Forbidden
+453 - You currently have access to a subset of X API V2 endpoints and limited v1.1 endpoints (e.g. media post, oauth) only. If you need access to this endpoint, you may need a different access level. You can learn more here: https://developer.x.com/en/portal/product
+2025-03-05 10:54:24,664 - ERROR - Error posting tweet: 403 Forbidden
+453 - You currently have access to a subset of X API V2 endpoints and limited v1.1 endpoints (e.g. media post, oauth) only. If you need access to this endpoint, you may need a different access level. You can learn more here: https://developer.x.com/en/portal/product
+2025-03-05 11:01:58,579 - INFO - Tweet posted successfully! Tweet ID: 1897331767121510865
+2025-03-05 11:22:00,609 - INFO - Tweet posted successfully! Tweet ID: 1897336808846860456
